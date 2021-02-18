@@ -1,3 +1,7 @@
+# Checking out the APP
+
+This app can be accessed from https://random-quiz.herokuapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
